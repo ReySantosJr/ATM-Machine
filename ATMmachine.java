@@ -8,8 +8,9 @@ import java.text.DecimalFormat;
 
 public class ATMmachine extends JFrame {
     /*
-     * Fields / /* JFrame Components
+     * Fields 
      */
+     /* JFrame Components */
     // Buttons for program
     private JButton withdrawButton = new JButton("Withdraw");
     private JButton depositButton = new JButton("Deposit");
