@@ -1,15 +1,5 @@
 package atm;
 
-/**
- * Program Name: ATM Machine
- * File ATMmachine.java
- * File Type: Contains Constructor and Main Method. 
- * Purpose: A mini-program that recreates the basic functions of an ATM machine.
- * 
- * @author Reynaldo Santos
- * @since 2018-11-17
- */
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
